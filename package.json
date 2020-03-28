@@ -1,0 +1,16 @@
+{
+  "name": "cryp",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/main.ts"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^13.9.5",
+    "nodemon": "^2.0.2",
+    "ts-node": "^8.8.1",
+    "typescript": "^3.8.3"
+  }
+}
